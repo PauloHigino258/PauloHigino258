@@ -2,6 +2,7 @@
 
 # Olá, eu sou o Paulo 👋
 
+
 Estudante de **Ciência da Computação** focado em construir uma base sólida em engenharia de software e resolução de problemas. Atualmente desenvolvendo projetos práticos para aplicar conceitos teóricos na prática.
 
 ---
