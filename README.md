@@ -1,16 +1,28 @@
-## Hi there 👋
+<img width="2064" height="512" alt="Banner Ciência da Computação" src="https://github.com/user-attachments/assets/506ff471-eef6-4318-a25f-5b57f4c129ab" />
 
-<!--
-**PauloHigino258/PauloHigino258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Paulo 👋
 
-Here are some ideas to get you started:
+Estudante de **Ciência da Computação** focado em construir uma base sólida em engenharia de software e resolução de problemas. Atualmente desenvolvendo projetos práticos para aplicar conceitos teóricos na prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologias & Ferramentas
+
+- **Linguagens**: JavaScript (ES6+), Python, C, Java e outros
+- **Ambientes & Ferramentas**: Node.js, Git, GitHub, Terminal Linux/Bash
+
+---
+
+### 🧠 Conceitos em Prática
+
+Busco sedimentar os fundamentos da programação através do desenvolvimento ativo:
+- **Lógica de Programação**: Controle de fluxo, estruturas condicionais e funções estruturadas.
+- **Estruturas de Dados**: Manipulação e armazenamento eficiente de dados de variáveis.
+- **Projetos de Terminal**: Criação de scripts executáveis via CLI (Command Line Interface).
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/paulo-s%C3%A9rgio-martins-higino-087b372b2/
+- 📧 **E-mail**: pshconcursos@gmail.com
